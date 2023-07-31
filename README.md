@@ -15,7 +15,7 @@
   </a>
 </p>
 
-<p align="center">Experienced Technical Professional with a passion for innovation and an eagerness to continuously learn and develop skills in cutting-edge technologies, particularly in AR/VR. Adapt at managing projects, event coordination, and handling stress with ease.</p>
+<p align="center">Experienced Technical Professional with a passion for innovation and an eagerness to continuously learn and develop skills in cutting-edge technologies, particularly in AR/VR. I am skilled in project management, event coordination, and handling stressful situations with ease.</p>
 
 ## Education
 - B.Tech in Computer Science Engineering from Annasaheb Dange College of Engineering & Technology, Ashta, Sangli.
