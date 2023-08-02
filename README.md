@@ -4,9 +4,6 @@
   <a href="mailto:shivamnimbalkar3901@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-blue" alt="Email">
   </a>
-  <a href="tel:+918830854483">
-    <img src="https://img.shields.io/badge/Phone-8830854483-red" alt="Phone">
-  </a>
   <a href="https://www.linkedin.com/in/shivamnimbalkar">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue" alt="LinkedIn">
   </a>
