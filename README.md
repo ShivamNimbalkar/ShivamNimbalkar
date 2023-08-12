@@ -10,7 +10,7 @@
   <a href="https://github.com/ShivamNimbalkar">
     <img src="https://img.shields.io/badge/GitHub-Follow%20Me-lightgrey" alt="GitHub">
   </a>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ShivamNimmbalkar&label=Profile%20views&color=0e75b6&style=flat" alt="ShivamNimbalkar" /> </p>
+<a align="left"> <img src="https://komarev.com/ghpvc/?username=ShivamNimmbalkar&label=Profile%20views&color=0e75b6&style=flat" alt="ShivamNimbalkar" /> </a>
 </p>
 
 <p align="center">Experienced Technical Professional with a passion for innovation and an eagerness to continuously learn and develop skills in cutting-edge technologies, particularly in AR/VR. I am skilled in project management, event coordination, and handling stressful situations with ease. </p>
