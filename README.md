@@ -24,32 +24,6 @@
 - Augmented & Virtual Reality: Oculus Quest, Unity3D.
 - IoT & Project Management.
 
-## Work Experience
-- Research & Development Engineer at Institute of Futuristic Technologies, Goregaon, Mumbai (03/2023 - Present).
-  - Oculus Quest Development, Web Development in ARVR, Project Management.
-
-- Traineeship Engineer at The Intellect Technologies, Goregaon, Mumbai (12/2022 - 03/2023).
-  - Full Stack Web Development using ReactJS, Augmented & Virtual Reality.
-
-## Training Experience
-- Conducted a 6-day STTP on AR/VR/IOT at Dr. Daulatrao Aher College of Engineering Karad (07th Aug 2023 - 12th Aug 2023).
-  - Explored core concepts of AR/VR/IOT, with a focus on Meta Quest Development.
-  - Led projects based on Oculus, resulting in an appreciation letter from HOD CSE Prof. Shital Kakde.
-  - Total 28 students and all faculty Members from CSE Dept. attended the training. 
-
-- Conducted a 21-day training program on AR/VR and React JS at Thakur Polytechnique, Kandivali (12th June 2023 - 1st July 2023).
-  - Provided in-depth training on Augmented & Virtual Reality concepts, technologies, and practical applications.
-  - Conducted hands-on workshops on React JS, covering web development with a focus on front-end frameworks.
-
-- Conducted a 2-day workshop on VR at MIT Alandi (26th May 2023 - 27th May 2023).
-  - Explored Virtual Reality technologies and applications in various fields.
-
-- Web development using React JS at I2IT Pune (1st March 2023 - 4th March 2023).
-  - Add-on course focused on ReactJS for third-year students.
-      - Covered basic React concepts, hooks (useState and useEffect), API keys, forms, and routing using react-router-dom.
-  -  Introduced Next.js on the last day with a demo project.
-  -  Encouraged students to brainstorm mini project ideas for practical application
-
 ## Projects
 1. Web Based Platform for Pre-Ordering Food at Various Food Outlets (09/2021 - 12/2021)
    - Reduced wait time and allowed customers to view meal ingredients and customize orders.
@@ -75,11 +49,33 @@
    - Leveraged free assets to bring the virtual office to life, creating an immersive experience for users.
    - Worked with the Oculus Quest 2 and its SDK to enable grabbing and interaction within the virtual office.
    - Technologies used: Unity, C#, SketchUp Pro, Oculus Quest 2
+  
+## Work Experience
+- Research & Development Engineer at Institute of Futuristic Technologies, Goregaon, Mumbai (03/2023 - Present).
+  - Oculus Quest Development, Web Development in ARVR, Project Management.
 
-## Certificates
-- Hands-on Training on ARVR Integration with IoT (02/2022)
-  - Integrated IoT with Augmented Reality using Unity.
+- Traineeship Engineer at The Intellect Technologies, Goregaon, Mumbai (12/2022 - 03/2023).
+  - Full Stack Web Development using ReactJS, Augmented & Virtual Reality.
 
+## Training Experience
+- Conducted a 6-day STTP on AR/VR/IOT at Dr. Daulatrao Aher College of Engineering Karad (07th Aug 2023 - 12th Aug 2023).
+  - Explored core concepts of AR/VR/IOT, with a focus on Meta Quest Development.
+  - Led projects based on Oculus, resulting in an appreciation letter from HOD CSE Prof. Shital Kakde.
+  - Total 28 students and all faculty Members from CSE Dept. attended the training. 
+
+- Conducted a 21-day training program on AR/VR and React JS at Thakur Polytechnique, Kandivali (12th June 2023 - 1st July 2023).
+  - Provided in-depth training on Augmented & Virtual Reality concepts, technologies, and practical applications.
+  - Conducted hands-on workshops on React JS, covering web development with a focus on front-end frameworks.
+
+- Conducted a 2-day workshop on VR at MIT Alandi (26th May 2023 - 27th May 2023).
+  - Explored Virtual Reality technologies and applications in various fields.
+
+- Web development using React JS at I2IT Pune (1st March 2023 - 4th March 2023).
+  - Add-on course focused on ReactJS for third-year students.
+      - Covered basic React concepts, hooks (useState and useEffect), API keys, forms, and routing using react-router-dom.
+  -  Introduced Next.js on the last day with a demo project.
+  -  Encouraged students to brainstorm mini project ideas for practical application
+    
 ## Achievements
 - Appreciation letter for conducting a 4-day workshop in React JS (03/2023)
   - Conducted an interactive workshop on React JS at I²IT Pune.
