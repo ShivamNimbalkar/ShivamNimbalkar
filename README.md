@@ -10,13 +10,13 @@
   <a href="https://github.com/ShivamNimbalkar">
     <img src="https://img.shields.io/badge/GitHub-Follow%20Me-lightgrey" alt="GitHub">
   </a>
-  <a align="center">
-  <img src="https://profile-counter.glitch.me/ShivamNimbalkar/count.svg" alt="Visitor Count">
-</a>
 </p>
 
 <p align="center">Experienced Technical Professional with a passion for innovation and an eagerness to continuously learn and develop skills in cutting-edge technologies, particularly in AR/VR. I am skilled in project management, event coordination, and handling stressful situations with ease. </p>
-
+## Profile Visitors
+<p align="center">
+  <img src="https://profile-counter.glitch.me/ShivamNimbalkar/count.svg" alt="Visitor Count">
+</p>
 ## Education
 - B.Tech in Computer Science Engineering from Annasaheb Dange College of Engineering & Technology, Ashta, Sangli.
 - Higher Secondary Certificate (HSC) from Mudhoji Junior College, Phaltan, MH.
