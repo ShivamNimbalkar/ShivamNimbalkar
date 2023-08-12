@@ -23,7 +23,7 @@
 
 ## Skills
 - Web Development: HTML, CSS/SCSS, JavaScript, ReactJS.
-- Programming Languages: C/C++, Python, C#, R.
+- Programming Languages: Python, C#, C/C++, R.
 - Augmented & Virtual Reality: Oculus Quest, Unity3D.
 - IoT & Project Management.
 
