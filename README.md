@@ -49,7 +49,12 @@
    - Leveraged free assets to bring the virtual office to life, creating an immersive experience for users.
    - Worked with the Oculus Quest 2 and its SDK to enable grabbing and interaction within the virtual office.
    - Technologies used: Unity, C#, SketchUp Pro, Oculus Quest 2
-  
+
+6. AI in Vritual Reality Using Meta Quest & ChatGPT (In Beta Testing)🤖🧠
+   - Using Meta Intergartion Tool from Unity asset store for VR.
+   - ChatGPT API Integration using Web API call in Unity.
+   - An Virtual Assistant with experiencing the Virtual Reality using Meta Quest 2.
+
 ## Work Experience
 - Research & Development Engineer at Institute of Futuristic Technologies, Goregaon, Mumbai (03/2023 - Present).
   - Oculus Quest Development, Web Development in ARVR, Project Management.
