@@ -66,9 +66,9 @@
   - Full Stack Web Development using ReactJS, Augmented & Virtual Reality.
 
 ## Training Experience
-- Conducted a 6-day STTP on AR/VR/IOT at Dr. Daulatrao Aher College of Engineering Karad (07th Aug 2023 - 12th Aug 2023).
+- Conducted a 6-day STTP on AR/VR/IOT at Dr.Daulatrao Aher College of Engineering, Karad. (07th Aug 2023 - 12th Aug 2023).
   - Explored core concepts of AR/VR/IOT, with a focus on Meta Quest Development.
-  - Led projects based on Oculus, resulting in an appreciation letter from HOD CSE Prof. Shital Kakde.
+  - Led projects based on Oculus, resulting in an appreciation letter from HOD CSE Prof.Shital Kakde.
   - Total 28 students and all faculty Members from CSE Dept. attended the training. 
 
 - Conducted a 21-day training program on AR/VR and React JS at Thakur Polytechnique, Kandivali (12th June 2023 - 1st July 2023).
@@ -78,14 +78,17 @@
 - Conducted a 2-day workshop on VR at MIT Alandi (26th May 2023 - 27th May 2023).
   - Explored Virtual Reality technologies and applications in various fields.
 
-- Web development using React JS at I2IT Pune (1st March 2023 - 4th March 2023).
+- Web development using React JS at I²IT Pune (1st March 2023 - 4th March 2023).
   - Add-on course focused on ReactJS for third-year students.
       - Covered basic React concepts, hooks (useState and useEffect), API keys, forms, and routing using react-router-dom.
   -  Introduced Next.js on the last day with a demo project.
   -  Encouraged students to brainstorm mini project ideas for practical application
     
 ## Achievements
-- Appreciation letter for conducting a 4-day workshop in React JS (03/2023)
+- Appreciation letter for conducting a 4-day workshop in React JS. (03/2023)
   - Conducted an interactive workshop on React JS at I²IT Pune.
+
+- Appreciation letter for conducting  6-day STTP in AR/VR/IOT. (12th August 2023)
+  - Conducted an interactive workshop on AR/VR/IOT at Dr.Daulatrao Aher College of Engineering, Karad.
 
 Feel free to reach out to me for any collaboration or opportunity. I'm always open to learning and growing in the tech industry!
