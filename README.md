@@ -33,6 +33,7 @@
 
 2. Educational Institute Visit in Virtual World (06/2022 - 05/2023)
    - Created a virtual tour of an educational institute using Unity3D.
+   - Click For [Video](https://drive.google.com/file/d/16W3ZxAO6ey_VryaKu89jh_FALCW3kwxK/view?usp=drive_link).
 
 3. Medical Simulation of Heart, Lung, and Kidney (Work in Progress) 🏥
    - Developed a medical simulation project focusing on the heart, lung, and kidney.
@@ -52,11 +53,13 @@
    - Leveraged free assets to bring the virtual office to life, creating an immersive experience for users.
    - Worked with the Oculus Quest 2 and its SDK to enable grabbing and interaction within the virtual office.
    - Technologies used: Unity, C#, SketchUp Pro, Oculus Quest 2
+   - Click For [Video](https://www.linkedin.com/posts/shivamnimbalkar_virtualreality-oculusquest2-sketchuppro-activity-7060670929516826624-ODbk?utm_source=share&utm_medium=member_desktop).
 
 6. AI in Vritual Reality Using Meta Quest & ChatGPT (In Beta Testing)🤖🧠
    - Using Meta Intergartion Tool from Unity asset store for VR.
    - ChatGPT API Integration using Web API call in Unity.
    - An Virtual Assistant with experiencing the Virtual Reality using Meta Quest 2.
+   - Click For [Repository](https://github.com/ShivamNimbalkar/AI_IN_Metaverse). 
 
 ## Work Experience
 - Research & Development Engineer at Institute of Futuristic Technologies, Goregaon, Mumbai (03/2023 - Present).
