@@ -62,14 +62,14 @@
    - Click For [Repository](https://github.com/ShivamNimbalkar/AI_IN_Metaverse).
      
 7. Construction Industry In Metaverse
-  - Revolutionizing the way designers and builders create and visualize projects #Keypoints for Oculus (Meta Quest).
-  - Click For [Repository](https://github.com/ShivamNimbalkar/Construction-Industry-In-Metaverse)
+     - Revolutionizing the way designers and builders create and visualize projects #Keypoints for Oculus (Meta Quest).
+     - Click For [Repository](https://github.com/ShivamNimbalkar/Construction-Industry-In-Metaverse)
 
 8. Arduino Unity 2D/3D Interaction
-  - Arduino Integration: Use Arduino Uno and a membrane keyboard as a touch button to trigger in-game events.
-  - Serial Communication: Receive serial messages in Unity, enabling real-time interaction with Arduino-controlled hardware.
-  - 2D and 3D Environments: This project offers compatibility with both 2D and 3D Unity environments, providing flexibility for different types of games and simulations.
-  - Click For [Repository](https://github.com/ShivamNimbalkar/Arduino-Unity-2D-3D-Interaction).
+    - Arduino Integration: Use Arduino Uno and a membrane keyboard as a touch button to trigger in-game events.
+    - Serial Communication: Receive serial messages in Unity, enabling real-time interaction with Arduino-controlled hardware.
+    - 2D and 3D Environments: This project offers compatibility with both 2D and 3D Unity environments, providing flexibility for different types of games and simulations.
+    - Click For [Repository](https://github.com/ShivamNimbalkar/Arduino-Unity-2D-3D-Interaction).
 
    
 ## Work Experience
