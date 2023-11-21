@@ -74,16 +74,22 @@
 
    
 ## Work Experience
-- Research & Development Engineer at Institute of Futuristic Technologies, Goregaon, Mumbai (03/2023 - Present).
+
+
+- Research & Development Engineer at Institute of Futuristic Technologies, Goregaon, Mumbai (03/2023 - 11/2023).
   - Oculus Quest Development, Web Development in ARVR, Project Management.
 
 - Traineeship Engineer at The Intellect Technologies, Goregaon, Mumbai (12/2022 - 03/2023).
   - Full Stack Web Development using ReactJS, Augmented & Virtual Reality.
 
 ## Training Experience
+
+- Conducted a 3-day training program on AR/VR at Modern College, Pune  (17th August 2023 - 19th August 2023).
+  - Provided in-depth training on Augmented & Virtual Reality concepts, technologies, and practical applications.   
+
 - Conducted a 6-day STTP on AR/VR/IOT at Dr.Daulatrao Aher College of Engineering, Karad. (07th Aug 2023 - 12th Aug 2023).
   - Explored core concepts of AR/VR/IOT, with a focus on Meta Quest Development.
-  - Led projects based on Oculus, resulting in an appreciation letter from HOD CSE Prof.Shital Kakde.
+  - Led  on Oculus, resulting in an appreciation letteprojects basedr from HOD CSE Prof.Shital Kakde.
   - Total 28 students and all faculty Members from CSE Dept. attended the training. 
 
 - Conducted a 21-day training program on AR/VR and React JS at Thakur Polytechnique, Kandivali (12th June 2023 - 1st July 2023).
@@ -95,7 +101,7 @@
 
 - Web development using React JS at I²IT Pune (1st March 2023 - 4th March 2023).
   - Add-on course focused on ReactJS for third-year students.
-      - Covered basic React concepts, hooks (useState and useEffect), API keys, forms, and routing using react-router-dom.
+  - Covered basic React concepts, hooks (useState and useEffect), API keys, forms, and routing using react-router-dom.
   -  Introduced Next.js on the last day with a demo project.
   -  Encouraged students to brainstorm mini project ideas for practical application
     
