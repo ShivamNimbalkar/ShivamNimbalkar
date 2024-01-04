@@ -13,7 +13,7 @@
 <a> <img src="https://komarev.com/ghpvc/?username=ShivamNimmbalkar&label=Profile%20views&color=0e75b6&style=flat" alt="ShivamNimbalkar"/> </a>
 </p>
 
-<p align="center">Experienced Technical Professional with a passion for innovation and an eagerness to continuously learn and develop skills in cutting-edge technologies, particularly in AR/VR. I am skilled in project management, event coordination, and handling stressful situations with ease. </p>
+<p align="center">Experienced Technical Professional with a passion for innovation and an eagerness to continuously learn and develop skills in cutting-edge technologies. I am skilled in project management, event coordination, and handling stressful situations with ease. </p>
 
 
 
@@ -22,10 +22,16 @@
 - Higher Secondary Certificate (HSC) from Mudhoji Junior College, Phaltan, MH.
 
 ## Skills
-- Web Development: HTML, CSS/SCSS, JavaScript, ReactJS.
-- Programming Languages: Python, C#, C/C++, R.
-- Augmented & Virtual Reality: Oculus Quest, Unity3D.
-- IoT & Project Management.
+ **Programming Languages:** 
+ Proficient in Python, C#, C/C++, R
+
+**Web Development:** 
+Proficient in HTML5, CSS/SCSS, JavaScript, ReactJS, Node-Js,Flask, REST API, MongoDB.
+
+**ARVR Technologies:** 
+Experienced in SDKs : Unity 3D, Unreal Engine 4, Blender, Amazon Lumberyard, CryEngine, AppGameKit, Oculus, Vuforia,
+ARToolkit, Google ARCore, Apple ARKit
+
 
 ## Projects
 1. Web Based Platform for Pre-Ordering Food at Various Food Outlets (09/2021 - 12/2021)
@@ -112,6 +118,6 @@
 - Appreciation letter for conducting  6-day STTP in AR/VR/IOT. (12th August 2023)
   - Conducted an interactive workshop on AR/VR/IOT at Dr.Daulatrao Aher College of Engineering, Karad.
 
-Feel free to reach out to me for any collaboration or opportunity. I'm always open to learning and growing in the tech industry!
+**Feel free to reach out to me for any collaboration or opportunity. I'm always open to learning and growing in the tech industry**!
 </body>
 </html>
