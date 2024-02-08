@@ -88,7 +88,7 @@ ARToolkit, Google ARCore, Apple ARKit
 - Traineeship Engineer at The Intellect Technologies, Goregaon, Mumbai (12/2022 - 03/2023).
   - Full Stack Web Development using ReactJS, Augmented & Virtual Reality.
 
-## Training Experience
+<!---## Training Experience
 
 - Conducted a 3-day training program on AR/VR at Modern College, Pune  (17th August 2023 - 19th August 2023).
   - Provided in-depth training on Augmented & Virtual Reality concepts, technologies, and practical applications.   
@@ -116,7 +116,7 @@ ARToolkit, Google ARCore, Apple ARKit
   - Conducted an interactive workshop on React JS at I²IT Pune.
 
 - Appreciation letter for conducting  6-day STTP in AR/VR/IOT. (12th August 2023)
-  - Conducted an interactive workshop on AR/VR/IOT at Dr.Daulatrao Aher College of Engineering, Karad.
+  - Conducted an interactive workshop on AR/VR/IOT at Dr.Daulatrao Aher College of Engineering, Karad.--->
 
 **Feel free to reach out to me for any collaboration or opportunity. I'm always open to learning and growing in the tech industry**!
 </body>
