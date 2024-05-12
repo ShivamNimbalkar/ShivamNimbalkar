@@ -106,4 +106,3 @@
         <li>Arduino Integration: Use Arduino Uno and a membrane keyboard as a touch button to trigger in-game events.</li>
         <li>Serial Communication: Receive serial messages in Unity, enabling real-time interaction with Arduino-controlled
           hardware.</li>
-        <li>2
