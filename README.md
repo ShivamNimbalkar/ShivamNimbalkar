@@ -7,7 +7,7 @@
 </head>
 
 <body>
-  <h1 align="center">Welcome to My GitHub Profile! 👋 I'm Shivam Nimbalkar</h1>
+  <h1 align="center">Welcome to My GitHub Profile! 🙏 I'm Shivam Nimbalkar</h1>
 
   <p align="center">
     <a href="mailto:shivamnimbalkar3901@gmail.com">
