@@ -45,7 +45,7 @@
   <h2>Professional Experience</h2>
   <ul>
     <li>
-      <strong>Head, Product Design, VR & Wearables</strong> - SimoneFx Reality Labs Pvt. Ltd. (Apr 2024 - Present)
+      <strong>Head, Product Design, VR & Wearables</strong> - SimoneFx Reality Labs Pvt. Ltd. (Jan 2024 - Oct 2024)
       <ul>
         <li>Location: Navi Mumbai, Maharashtra, India · On-site</li>
         <li>Leading the development and design of innovative VR and wearable products.</li>
